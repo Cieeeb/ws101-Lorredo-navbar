@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+
+.navbar {
+  width: 100%;
+  background: rgb(8, 150, 150);
+  background-color: black;
+   display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+.navbar ul li img {
+  width: 30px;
+
+}
+
+.navbar ul li.active {
+  > a {
+      color: #e44c90;
+  }
+
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  font-size: 30px;
+  font-family: 'Rubik Glitch', sans-serif; 
+  margin: 40px;
+  background: linear-gradient(to right, rgb(27, 27, 193), rgb(93, 125, 228));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+
+
+.navbar ul li:hover {
+  transform: scale(1.1);
+  transition: 200ms ease-in-out;
+  text-shadow: 3px 2px 5px rgb(0, 217, 255);
+}
+
+.navbar img {
+  object-fit: fill;
+  width: 300px;
+  height: auto;
+  width: 170px;
+}
+
+.hero {
+  font-size: 35px;
+  font-family: 'Rubik Glitch', sans-serif; 
+  margin: 40px;
+  background: linear-gradient(to right, rgb(38, 38, 208), rgb(93, 125, 228));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+
+.about {
+  font-size: 35px;
+  font-family: 'Rubik Glitch', sans-serif; 
+  margin: 40px;
+  background: linear-gradient(to right, rgb(27, 27, 193), rgb(93, 125, 228));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+
+
+.contact {
+  font-size: 35px;
+  font-family: 'Rubik Glitch', sans-serif; 
+  margin: 40px;
+  background: linear-gradient(to right, rgb(27, 27, 193), rgb(93, 125, 228));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+
+
