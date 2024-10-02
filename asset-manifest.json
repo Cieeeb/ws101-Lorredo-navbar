@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ws101-Lorredo-navbar/static/css/main.dd1a02f9.css",
+    "main.js": "/ws101-Lorredo-navbar/static/js/main.da5b0973.js",
+    "static/js/453.dd42d34f.chunk.js": "/ws101-Lorredo-navbar/static/js/453.dd42d34f.chunk.js",
+    "index.html": "/ws101-Lorredo-navbar/index.html",
+    "main.dd1a02f9.css.map": "/ws101-Lorredo-navbar/static/css/main.dd1a02f9.css.map",
+    "main.da5b0973.js.map": "/ws101-Lorredo-navbar/static/js/main.da5b0973.js.map",
+    "453.dd42d34f.chunk.js.map": "/ws101-Lorredo-navbar/static/js/453.dd42d34f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd1a02f9.css",
+    "static/js/main.da5b0973.js"
+  ]
+}
